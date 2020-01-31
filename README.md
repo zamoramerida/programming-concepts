@@ -1,2 +1,2 @@
 # programming-concepts
-Reviwing basic programming concepts
+Reviewing basic programming concepts
